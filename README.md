@@ -68,6 +68,11 @@ Tableau dashboard design
 
 Analytical thinking
 
-### 📊 Author
+### 👩‍💻 Author
 
- Dimpal Gadani
+Dimpal Gadani
+
+Data Analyst | MIS | Business Intelligence
+
+Skills: SQL, Excel, Tableau, Python (Basics), Data Visualization
+
