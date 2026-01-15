@@ -45,7 +45,7 @@ Data-driven summaries for management review
 
 Tableau Desktop
 
-CSV dataset
+Excel dataset
 
 Data cleaning & preparation
 
